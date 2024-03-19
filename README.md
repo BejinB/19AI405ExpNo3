@@ -1,6 +1,6 @@
 
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: Ronick Aakshath P</h3>
+<h3>Name: Bejin.B</h3>
 <h3>Reg no: 212222230021</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
@@ -105,6 +105,8 @@ G F <BR>
 <hr>
 
 ### Program:
+<h3>Name: Bejin.B</h3>
+<h3>Reg no: 212222230021</h3>
 ```python
 from collections import deque
 from collections import defaultdict
